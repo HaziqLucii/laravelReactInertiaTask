@@ -1,5 +1,5 @@
 # Laravel React Study
 
-steps to start up project :
-    ``` composer install ```
-    ``` npm install ```
+steps to start up project : <br>
+    - ``` composer install ``` <br>
+    - ``` npm install ```
